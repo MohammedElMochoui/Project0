@@ -1,0 +1,16 @@
+a.nav-link.active.custom-pill {
+  background-color: #343a40;
+  color: white; }
+
+a.nav-link {
+  color: #343a40; }
+
+#logo {
+  margin-left: 10px; }
+
+#brand-name {
+  margin-left: 5px;
+  display: inline-block;
+  margin-top: 2px; }
+
+/*# sourceMappingURL=style.css.map */

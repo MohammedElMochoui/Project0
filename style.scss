@@ -1,0 +1,24 @@
+$nav-color: #343a40;
+$active-color:  rgba(206,68,143,0.78);
+$text-shadow: 1px 4px 6px $active-color;
+$bg-image1: url("resources/bg1.jpg");
+
+a.nav-link.active.custom-pill{
+
+    background-color: $nav-color;
+    color: white;
+}
+
+a.nav-link {
+    color: $nav-color;
+}
+
+#logo { 
+    margin-left: 10px;
+}
+
+#brand-name {
+    margin-left: 5px;
+    display: inline-block;
+    margin-top: 2px;
+}
